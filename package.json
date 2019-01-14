@@ -1,0 +1,19 @@
+{
+  "name": "food-scraps",
+  "version": "1.0.0",
+  "description": "platform to donate or sell food scraps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickslagle/food-scraps.git"
+  },
+  "author": "patrick slagle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickslagle/food-scraps/issues"
+  },
+  "homepage": "https://github.com/patrickslagle/food-scraps#readme"
+}
